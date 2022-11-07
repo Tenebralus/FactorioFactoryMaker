@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FFM", "FFM\FFM.csproj", "{BAA6FB86-0D7B-44BE-9E12-F06488CEEEB2}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "FFMDatabase", "FFMDatabase\FFMDatabase.sqlproj", "{3921ACF2-CDA2-4B0C-AEDB-1F86B6E59567}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,12 @@ Global
 		{BAA6FB86-0D7B-44BE-9E12-F06488CEEEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAA6FB86-0D7B-44BE-9E12-F06488CEEEB2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BAA6FB86-0D7B-44BE-9E12-F06488CEEEB2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3921ACF2-CDA2-4B0C-AEDB-1F86B6E59567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3921ACF2-CDA2-4B0C-AEDB-1F86B6E59567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3921ACF2-CDA2-4B0C-AEDB-1F86B6E59567}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3921ACF2-CDA2-4B0C-AEDB-1F86B6E59567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3921ACF2-CDA2-4B0C-AEDB-1F86B6E59567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3921ACF2-CDA2-4B0C-AEDB-1F86B6E59567}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
